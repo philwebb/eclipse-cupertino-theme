@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Cupertino Eclipse Theme
+   </description>
+   <feature id="io.github.philwebb.eclipse.theme.cupertino.feature">
+      <category name="io.github.philwebb.eclipse.theme.cupertino"/>
+   </feature>
+   <category-def name="io.github.philwebb.eclipse.theme.cupertino" label="Cupertino Eclipse Theme"/>
+</site>
