@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product uid="io.github.philwebb.eclipse.theme.cupertino.site" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="false">
+<product uid="io.github.philwebb.eclipse.theme.cupertino.site" version="1.0.1.qualifier" useFeatures="true" includeLaunchers="false">
 
    <configIni>
    </configIni>
