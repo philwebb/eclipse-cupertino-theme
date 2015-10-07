@@ -2,7 +2,7 @@
 <feature
       id="io.github.philwebb.eclipse.theme.cupertino.feature"
       label="%featureName"
-      version="1.0.0.qualifier"
+      version="1.0.0"
       provider-name="%providerName"
       plugin="io.github.philwebb.eclipse.theme.cupertino">
 
