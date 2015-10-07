@@ -2,3 +2,5 @@
 
 == Overview
 A clean "mac" theme for Eclipse. Update site at https://dl.bintray.com/philwebb/eclipse-cupertino-theme.
+
+image::screenshot.png[]
